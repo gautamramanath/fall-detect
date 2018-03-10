@@ -1,6 +1,5 @@
 # Person Fall Detection (Internet Of Things Project)
 
-## Objective:
 - Monitor old people so that their fall is detected and a notification is sent to their caretaker for further help.
 - Send immediate response to the family member or nearby hospital via Text message and missed call. 
 
